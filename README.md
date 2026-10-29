@@ -3,7 +3,7 @@
 <img align='right' src='https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif' width='15%'>  
 
 * ⚡ `I'm`: **18 years old**,
-* 🎓 `I’m currently learning`: **C++**, **Typescript + React**,
+* 🎓 `I’m currently learning`: **C++**,
 * ❤️ `I love`: **Monster Ultra White**,
 * 🎮 `I play`: **Dota 2**, **Deadlock**,
 * 💻 `Favorite lang`: **C++** 
